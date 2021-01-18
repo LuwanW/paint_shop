@@ -1,5 +1,5 @@
 <?php
-// luwan wang 100995128
+
 // this file create paint as a class 
 define('DBHOST', '');
 define('DBNAME', 'art');

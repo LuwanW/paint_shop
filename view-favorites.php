@@ -1,5 +1,5 @@
 <?php
-// luwan wang 100995128
+
 // this file display favorites when click on favorites in the header
 session_start();
 

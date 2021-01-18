@@ -1,5 +1,4 @@
 <?php
-// luwan wang 100995128
 // this file shows each painting 
 include_once('Painting.class.php');
 

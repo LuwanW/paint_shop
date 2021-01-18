@@ -1,5 +1,5 @@
 <?php
-// luwan wang 100995128
+
 
 // to test memchache use:  
 //alter table art.paintings rename to art.tmp

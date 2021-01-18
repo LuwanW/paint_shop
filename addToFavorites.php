@@ -1,6 +1,5 @@
 <?php	
 // this file add a new favorite to the session list 
-// luwan wang 100995128
 header('Location: /view-favorites.php');
 session_start();
 if($_SERVER['REQUEST_METHOD'] == 'GET') {

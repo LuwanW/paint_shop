@@ -1,5 +1,5 @@
 <?php
-// luwan wang 100995128
+
 // this file deletes favorate paints from the session list
 header("Location: /view-favorites.php");
 session_start();
